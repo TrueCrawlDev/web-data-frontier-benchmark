@@ -631,7 +631,7 @@ export const WEB_ACCESS_ALL_TESTS: WebAccessTestConfig[] = [
     antibot: "temu",
     industry: "Retail & ecommerce",
     containsText:
-      "60W Fast Charging USB to Type-C Cable, High-Speed Data Sync, for iPhone 15/16, for MacBook Air/Pro, for iPad, for SamSung, for Xiaomi Other Devices",
+      "60W Fast Charging USB to Type-C Cable, High-Speed Data Sync, for iPhone 15/16, for MacBook Air/Pro, for iPad, for SamSung Other Devices",
   },
   {
     name: "delta",
